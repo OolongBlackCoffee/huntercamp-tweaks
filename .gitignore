@@ -1,0 +1,16 @@
+# 编译产物
+gpusvc/out/
+gpusvc/bin/
+gpusvc/obj/
+payload/HcGpuSvc.exe
+
+# 运行时产物
+deploy-last.log
+*.orig-oclimit
+*.orig-bak*
+backup-heavy/
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
