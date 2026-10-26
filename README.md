@@ -1,5 +1,7 @@
 # HUNTER CAMP 改动集（荣耀猎人营地 小修小补）
 
+> 📦 免编译安装包见 [Releases](https://github.com/OolongBlackCoffee/huntercamp-tweaks/releases)：下载 `huntercamp-tweaks.zip` 与 `HcGpuSvc.zip`，把 `HcGpuSvc.exe` 放进 `payload\`，然后双击 `一键部署.bat`。
+
 给荣耀 **HUNTER CAMP（猎人营地）** 桌面端加几样官方没给的功能，并附一套**升级覆盖后一键恢复**的部署脚本。
 
 > 纯本地、纯前端注入 + 一个本地小服务，不改官方安装包、不联网、不收集任何数据。
